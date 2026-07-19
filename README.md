@@ -95,7 +95,6 @@ score-fuzzy-system/
 - Using scikit-fuzzy
 - Visualizing data with Matplotlib
 
----
 ## Future Improvements
 - Add GUI
 - Read student data from CSV
