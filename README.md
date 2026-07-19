@@ -2,14 +2,14 @@
 
 ## Overview
 
-This project implements a fuzzy inference system to evaluate students' final grades based on attendance, exam score, and homework using Python and scikit-fuzzy.
+This project implements a fuzzy inference system to evaluate students' final grades based on presence, exam score, and homework using Python and scikit-fuzzy.
 
 ---
 
 ## Features
 
-- Three input variables
-- One output variable
+- 3 input variables
+- 1 output variable
 - 25 fuzzy rules
 - Membership function visualization
 - Automatic grading
@@ -96,7 +96,6 @@ score-fuzzy-system/
 - Visualizing data with Matplotlib
 
 ## Future Improvements
-- Add GUI
 - Read student data from CSV
 - Export results to Excel
 
